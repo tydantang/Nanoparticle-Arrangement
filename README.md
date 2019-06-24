@@ -1,1 +1,1 @@
-# nanoparticle-arrangement
+# Nanoparticle-Arrangement
